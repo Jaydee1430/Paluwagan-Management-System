@@ -3,22 +3,22 @@ document.addEventListener("DOMContentLoaded", function () {
   const members = {
     jerome: {
         name: "Jerome Rosales",
-        contribution: 0,
+        contribution: 250,
         payout: "Dec 14, 2025"
       },
       jaja: {
         name: "Jaja",
-        contribution: 0,
+        contribution: 250,
         payout: "Dec 14, 2025"
       },
       lina: {
         name: "Lina",
-        contribution: 0,
+        contribution: 500,
         payout: "Dec 14, 2025"
       },
       linda: {
         name: "Lina",
-        contribution: 0,
+        contribution: 500,
         payout: "Dec 14, 2025"
       },
       dennis: {
