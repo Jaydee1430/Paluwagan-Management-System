@@ -43,7 +43,7 @@ document.addEventListener("DOMContentLoaded", function () {
       },
       apyang: {
         name: "Apyang",
-        contribution: 0,
+        contribution: 500,
         payout: "Dec 14, 2025"
       },
       richardPan: {
@@ -73,7 +73,7 @@ document.addEventListener("DOMContentLoaded", function () {
       },
       richardSan: {
         name: "Richard Santos",
-        contribution: 0,
+        contribution: 500,
         payout: "Dec 14, 2025"
       },
       felma: {
